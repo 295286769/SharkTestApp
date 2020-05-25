@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="button_china">中文</string>
+    <string name="button_english">英文</string>
+</resources>
