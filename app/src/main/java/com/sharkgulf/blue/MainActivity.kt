@@ -30,7 +30,8 @@ class MainActivity : BaseActivity() {
     var scanRequsCode = 1002
 
     var scanRequs = 1003
-    var scanRequsaaaa = 1007
+
+    var scanRequsaaaa = 1008
     var device: BluetoothDevice? = null
     var downApkServer:ApkDowmManager?=null
 //    var dialoghuider: DialogUtil?=null
