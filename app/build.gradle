@@ -17,16 +17,16 @@ android {
     }
     signingConfigs {
         debug {
-            storeFile file('E:\\key\\platform.keystore')
-            storePassword 'android'
-            keyAlias = 'platform'
-            keyPassword 'android'
+//            storeFile file('E:\\key\\platform.keystore')
+//            storePassword 'android'
+//            keyAlias = 'platform'
+//            keyPassword 'android'
         }
         release {
-            storeFile file('E:\\key\\platform.keystore')
-            storePassword 'android'
-            keyPassword 'android'
-            keyAlias = 'platform'
+//            storeFile file('E:\\key\\platform.keystore')
+//            storePassword 'android'
+//            keyPassword 'android'
+//            keyAlias = 'platform'
         }
     }
     buildTypes {
